@@ -1,0 +1,227 @@
+body{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+overflow-x: hidden;
+
+}
+.menu{
+    padding: 30px;
+    font-size: 30px;
+    /* width: 100%; */
+    height: 20px;
+    padding-left: 100px;
+    cursor: pointer;
+}
+.box1{
+    background-color:#7FC0CA ;
+    overflow: hidden;
+    /* padding-left:50px; */
+    padding-top: 40px;
+    padding-left: 140px;
+
+}
+.box1h{
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-family: Montserrat, sans-serif;
+    padding-top: 35px;
+    padding-bottom: 15px;
+    color: white;
+    font-size: 35px;
+
+}
+.box1p{
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.6;
+    color: white;
+    font-size: 18px;
+    width: 55%;
+
+}
+.button{
+    background-color: white;
+    color: black;
+    padding: 25px 50px 20px 50px;
+border: none;
+border-radius: 50px;
+margin-bottom: 5%;
+font-size: 18px;
+margin-top: 3%;
+font-weight: 600;
+font-family: 'Open Sans', sans-serif;
+letter-spacing: 1px;
+cursor: pointer;
+
+}
+.button:hover{
+    background-color: black;
+    color: white;
+    
+}
+.box2{
+    text-align: center;
+
+}
+.box2p1{
+    font-family:  Montserrat, sans-serif;
+    font-size: 35px;
+    letter-spacing: 1px;
+    padding-top: 50px;
+}
+.box2p{
+     font-family: 'Open Sans', sans-serif;
+     font-size: 18px;
+     padding-bottom: 15px;
+     letter-spacing: 1px;
+     word-spacing: 1px;
+
+}
+.box3 img{
+    width: 350px;
+    height: 310px;
+    padding: 5px;
+    justify-content: space-between;
+    cursor: pointer;
+    
+
+
+}
+.box3{
+    margin-left: 10%;
+    display: flex;
+    display: wrap;
+    padding-bottom: 50px;
+
+}
+.intro{
+    background-color:#333333 ;
+    height: 500px;
+    padding: 50px;
+    padding-left: 140px;
+}
+.intro1{
+    color:white ;
+    font-family: Montserrat, sans-serif;
+    font-weight: 400px;
+    font-size: 36px;
+}
+.div1{
+    background-color: white;
+    width: 350px;
+    height: 340px;
+    margin: 5px;
+    
+}
+.divbox{
+    display: flex;
+    padding: 5px;
+    margin-left: auto;
+
+}
+.divp1{
+    font-family: Montserrat, sans-serif;
+    padding: 20px 0px 0px 20px;
+    color: #111111;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.divp2{
+    font-family: Montserrat, sans-serif;
+    padding-left: 20px;
+    color: #7FC0CA;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.divp3{
+    font-family:'Open Sans', sans-serif;
+    padding: 0px 20px;
+    color: black;
+    text-transform: capitalize;
+    font-size: 17px;
+    line-height: 1.5;
+    font-weight: 400px;
+    width: 85%;
+}
+.divp4{
+    font-family:Montserrat, sans-serif;
+    padding: 20px;
+    color: #BABACE;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.our{
+    text-align: center;
+    margin-top: 50px;
+}
+.our1{
+    font-family: Montserrat, sans-serif;
+    font-size: 36px;
+}
+.our2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    width: 50%;
+margin-left: 25%;
+}
+.box4 img{
+    width: 350px;
+    height: 310px;
+    padding: 5px;
+    justify-content: space-between;
+    cursor: pointer;
+
+
+}
+.box4{
+    margin-left: 10%;
+    display: flex;
+    display: wrap;
+    padding-bottom: 50px;
+
+}
+.last{
+    background-color: #333333;
+    height: 500px;
+    color: rgb(255,255,255);
+}
+.last1{
+    padding: 5% 0px 0px 5%;
+}
+.last2{
+    font-family:Montserrat, sans-serif ;
+    font-size: 36px;
+    width: 500px;
+    font-weight: 400;
+}
+.fa-sharp.fa-solid.fa-envelope {    
+    font-size: 35px;
+    color: #94D0E1;
+}
+.lp1{
+    font-family: Montserrat, sans-serif;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.lp2{
+    font-family: Montserrat, sans-serif;
+    font-size: 20px;
+font-weight: 700;
+text-transform: uppercase;
+margin-top: -15px;
+}
+.hr{
+    width: 500px;
+    float: left;
+    margin-top: -15px;
+
+}
+.lp3{
+    padding: 5% 0px 0px 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    margin-top: -10px;
+}
+.lastt{
+flex-direction: ;
+}
